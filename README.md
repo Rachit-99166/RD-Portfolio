@@ -19,6 +19,6 @@ In Vscode you can click on "Golive", that will take you to webBrowser where port
 
 ## Screenshots
 
-![Screenshot 2024-08-04 012802](https://github.com/user-attachments/assets/ce830c45-2982-4e8b-ae24-4545f56ff078)
+![Screenshot 2024-08-04 012802](https://github.com/user-attachments/assets/92230701-82c9-4093-a101-c59bed86520a)
 
-![Screenshot 2024-08-04 012820](https://github.com/user-attachments/assets/c790fe7e-f669-45bb-ab85-04618efe092a)
+![Screenshot 2024-08-04 012820](https://github.com/user-attachments/assets/6195e5b5-827e-4a2d-a35f-1a789bbb1db8)
