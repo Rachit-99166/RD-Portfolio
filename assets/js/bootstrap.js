@@ -22,8 +22,6 @@ if (typeof jQuery === 'undefined') {
 +function ($) {
   'use strict';
 
-  // CSS TRANSITION SUPPORT (Shoutout: http://www.modernizr.com/)
-  // ============================================================
 
   function transitionEnd() {
     var el = document.createElement('bootstrap')
