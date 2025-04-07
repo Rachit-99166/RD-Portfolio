@@ -17,7 +17,7 @@ or
 In Vscode you can click on "Golive", that will take you to webBrowser where portfolio will run.
 
 
-## Screenshots
+## Screenshots 
 
 ![Pf1](https://github.com/user-attachments/assets/bbee4080-1cd2-497c-a433-d8d2339dfcd9)
 
