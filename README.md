@@ -9,7 +9,7 @@ Made an portfolio to effectively showcase my skills and provide comprehensive in
 Html, Css, Javascript and Bootstrap.
 
 ## Deployment
-To run project use any Compiler i would suggest Vscode where 
+To run project use any Compiler i would suggest Vscode where  
 you just have to click on Run Java or Run Code.
 
 or
